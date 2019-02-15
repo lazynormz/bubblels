@@ -1,0 +1,26 @@
+{
+  "name": "Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazynormz/bubblels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazynormz/bubblels/issues"
+  },
+  "homepage": "https://github.com/lazynormz/bubblels#readme",
+  "devDependencies": {
+    "electron": "^4.0.5"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
